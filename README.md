@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Emil</h1>
 <h3 align="center">A passionate developer from germany</h3>
 <h3>
-At the moment I mainly work with typescript, but I also enjoy working with more lower level languages like c++, rust or go, because you don't get things done as quickly but you learn more in the process  and it's more fun because it's more challenging
+At the moment I mainly work with typescript, but I also enjoy working with more low level languages like c++, rust or go, because you don't get things done as quickly but you learn more in the process  and it's more fun because it's more challenging
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peu77&label=Profile%20views&color=0e75b6&style=flat" alt="peu77" /> </p>
